@@ -1,0 +1,6 @@
+MaxBin 2.2.7
+Input contig: /home/jupyter/Final/Dataset/CAMI_Low/contigs.fna
+Located abundance file [/home/jupyter/Final/Dataset/CAMI_Low/depth-only-low.txt]
+out header: /home/jupyter/Final/Binning/CAMI_Low/Maxbin2/prob50T/bin
+Thread: 20
+Probability threshold: 0.5

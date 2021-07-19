@@ -1,0 +1,353 @@
+2021-07-11 00:53:09,150 INFO Loading Gold standard
+2021-07-11 00:53:09,214 INFO Loading metabat1_p30
+2021-07-11 00:53:09,231 INFO Loading metabat1_p50
+2021-07-11 00:53:09,247 INFO Loading metabat1_p70
+2021-07-11 00:53:09,265 INFO Loading metabat1_p80
+2021-07-11 00:53:09,293 INFO Loading metabat1_p90
+2021-07-11 00:53:09,310 INFO Loading metabat1_p95
+2021-07-11 00:53:09,327 INFO Loading improved
+2021-07-11 00:53:09,357 INFO Loading \
+2021-07-11 00:53:09,365 CRITICAL File \ not found or malformed. [Errno 2] No such file or directory: '\\'
+2021-07-11 00:53:30,010 INFO Loading Gold standard
+2021-07-11 00:53:30,061 INFO Loading metabat1_p30
+2021-07-11 00:53:30,077 INFO Loading metabat1_p50
+2021-07-11 00:53:30,092 INFO Loading metabat1_p70
+2021-07-11 00:53:30,109 INFO Loading metabat1_p80
+2021-07-11 00:53:30,124 INFO Loading metabat1_p90
+2021-07-11 00:53:30,140 INFO Loading metabat1_p95
+2021-07-11 00:53:30,156 INFO Loading improved
+2021-07-11 00:53:30,186 INFO Creating output directories
+2021-07-11 00:53:30,188 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 00:53:30,423 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 00:53:30,594 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 00:53:30,770 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 00:53:30,942 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 00:53:31,110 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 00:53:31,279 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 00:53:31,447 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 00:53:31,634 INFO Saving computed metrics
+2021-07-11 00:53:31,674 INFO Creating genome binning plots
+2021-07-11 00:54:01,691 INFO Creating HTML page
+2021-07-11 00:54:03,990 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:09:04,113 INFO Loading Gold standard
+2021-07-11 01:09:04,165 INFO Loading metabat1_p30
+2021-07-11 01:09:04,182 INFO Loading metabat1_p50
+2021-07-11 01:09:04,199 INFO Loading metabat1_p70
+2021-07-11 01:09:04,216 INFO Loading metabat1_p80
+2021-07-11 01:09:04,239 INFO Loading metabat1_p90
+2021-07-11 01:09:04,256 INFO Loading metabat1_p95
+2021-07-11 01:09:04,272 INFO Loading improved
+2021-07-11 01:09:04,297 INFO Creating output directories
+2021-07-11 01:09:04,299 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:09:04,499 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:09:04,673 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 01:09:04,873 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 01:09:05,046 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 01:09:05,231 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 01:09:05,406 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:09:05,580 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:09:05,774 INFO Saving computed metrics
+2021-07-11 01:09:05,817 INFO Creating genome binning plots
+2021-07-11 01:09:35,151 INFO Creating HTML page
+2021-07-11 01:09:37,335 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:15:42,184 INFO Loading Gold standard
+2021-07-11 01:15:42,234 INFO Loading metabat1_p30
+2021-07-11 01:15:42,251 INFO Loading metabat1_p50
+2021-07-11 01:15:42,267 INFO Loading metabat1_p70
+2021-07-11 01:15:42,284 INFO Loading metabat1_p80
+2021-07-11 01:15:42,299 INFO Loading metabat1_p90
+2021-07-11 01:15:42,315 INFO Loading metabat1_p95
+2021-07-11 01:15:42,331 INFO Loading improved
+2021-07-11 01:15:42,351 INFO Creating output directories
+2021-07-11 01:15:42,353 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:15:42,549 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:15:42,718 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 01:15:42,896 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 01:15:43,065 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 01:15:43,234 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 01:15:43,403 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:15:43,573 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:15:43,753 INFO Saving computed metrics
+2021-07-11 01:15:43,795 INFO Creating genome binning plots
+2021-07-11 01:16:13,444 INFO Creating HTML page
+2021-07-11 01:16:15,684 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:25:36,275 INFO Loading Gold standard
+2021-07-11 01:25:36,325 INFO Loading metabat1_p30
+2021-07-11 01:25:36,340 INFO Loading metabat1_p50
+2021-07-11 01:25:36,355 INFO Loading metabat1_p70
+2021-07-11 01:25:36,371 INFO Loading metabat1_p80
+2021-07-11 01:25:36,386 INFO Loading metabat1_p90
+2021-07-11 01:25:36,401 INFO Loading metabat1_p95
+2021-07-11 01:25:36,416 INFO Loading improved
+2021-07-11 01:25:36,432 INFO Creating output directories
+2021-07-11 01:25:36,434 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:25:36,619 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:25:36,781 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 01:25:36,942 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 01:25:37,130 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 01:25:37,317 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 01:25:37,506 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:25:37,677 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:25:37,856 INFO Saving computed metrics
+2021-07-11 01:25:37,900 INFO Creating genome binning plots
+2021-07-11 01:26:07,380 INFO Creating HTML page
+2021-07-11 01:26:09,605 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:34:14,671 INFO Loading Gold standard
+2021-07-11 01:34:14,721 INFO Loading metabat1_p30
+2021-07-11 01:34:14,737 INFO Loading metabat1_p50
+2021-07-11 01:34:14,752 INFO Loading metabat1_p70
+2021-07-11 01:34:14,768 INFO Loading metabat1_p80
+2021-07-11 01:34:14,783 INFO Loading metabat1_p90
+2021-07-11 01:34:14,799 INFO Loading metabat1_p95
+2021-07-11 01:34:14,814 INFO Loading improved
+2021-07-11 01:34:14,830 INFO Creating output directories
+2021-07-11 01:34:14,832 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:34:15,021 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:34:15,188 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 01:34:15,362 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 01:34:15,530 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 01:34:15,695 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 01:34:15,859 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:34:16,023 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:34:16,196 INFO Saving computed metrics
+2021-07-11 01:34:16,236 INFO Creating genome binning plots
+2021-07-11 01:34:45,562 INFO Creating HTML page
+2021-07-11 01:34:47,745 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:38:59,813 INFO Loading Gold standard
+2021-07-11 01:38:59,864 INFO Loading metabat1_p30
+2021-07-11 01:38:59,880 INFO Loading metabat1_p50
+2021-07-11 01:38:59,895 INFO Loading metabat1_p70
+2021-07-11 01:38:59,912 INFO Loading metabat1_p80
+2021-07-11 01:38:59,928 INFO Loading metabat1_p90
+2021-07-11 01:38:59,944 INFO Loading metabat1_p95
+2021-07-11 01:38:59,960 INFO Loading improved
+2021-07-11 01:38:59,981 INFO Creating output directories
+2021-07-11 01:38:59,983 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:39:00,175 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:39:00,343 INFO Evaluating metabat1_p50 (sample gsa, genome binning)
+2021-07-11 01:39:00,520 INFO Evaluating metabat1_p70 (sample gsa, genome binning)
+2021-07-11 01:39:00,689 INFO Evaluating metabat1_p80 (sample gsa, genome binning)
+2021-07-11 01:39:00,855 INFO Evaluating metabat1_p90 (sample gsa, genome binning)
+2021-07-11 01:39:01,026 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:39:01,198 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:39:01,377 INFO Saving computed metrics
+2021-07-11 01:39:01,417 INFO Creating genome binning plots
+2021-07-11 01:39:30,704 INFO Loading Gold standard
+2021-07-11 01:39:30,756 INFO Loading metabat1_p30
+2021-07-11 01:39:30,773 INFO Creating output directories
+2021-07-11 01:39:30,775 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:39:30,969 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:39:31,146 INFO Saving computed metrics
+2021-07-11 01:39:31,164 INFO Creating genome binning plots
+2021-07-11 01:39:43,164 INFO Creating HTML page
+2021-07-11 01:39:44,733 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:40:30,742 INFO Loading Gold standard
+2021-07-11 01:40:30,791 INFO Loading metabat1_p30
+2021-07-11 01:40:30,808 INFO Creating output directories
+2021-07-11 01:40:30,810 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:40:31,003 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:40:31,177 INFO Saving computed metrics
+2021-07-11 01:40:31,195 INFO Creating genome binning plots
+2021-07-11 01:40:43,223 INFO Creating HTML page
+2021-07-11 01:40:44,773 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 01:42:59,658 INFO Loading Gold standard
+2021-07-11 01:42:59,709 INFO Loading metabat1_p30
+2021-07-11 01:42:59,725 INFO Loading metabat1_p95
+2021-07-11 01:42:59,740 INFO Loading improved
+2021-07-11 01:42:59,763 INFO Creating output directories
+2021-07-11 01:42:59,765 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 01:42:59,962 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 01:43:00,137 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 01:43:00,317 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 01:43:00,508 INFO Saving computed metrics
+2021-07-11 01:43:00,535 INFO Creating genome binning plots
+2021-07-11 01:43:18,534 INFO Creating HTML page
+2021-07-11 01:43:20,222 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 02:07:42,816 INFO Loading Gold standard
+2021-07-11 02:07:42,868 INFO Loading metabat2_p50
+2021-07-11 02:07:42,884 INFO Loading metabat2_p95
+2021-07-11 02:07:42,896 INFO Creating output directories
+2021-07-11 02:07:42,899 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 02:07:43,096 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-11 02:07:43,272 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-11 02:07:43,483 INFO Saving computed metrics
+2021-07-11 02:07:43,514 INFO Creating genome binning plots
+2021-07-11 02:07:58,647 INFO Creating HTML page
+2021-07-11 02:08:00,273 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 02:21:33,331 INFO Loading Gold standard
+2021-07-11 02:21:33,422 INFO Loading metabat1_p30
+2021-07-11 02:21:33,445 INFO Loading metabat1_p95
+2021-07-11 02:21:33,465 INFO Loading improved
+2021-07-11 02:21:33,481 INFO Creating output directories
+2021-07-11 02:21:33,483 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 02:21:33,706 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-11 02:21:33,886 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-11 02:21:34,057 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 02:21:34,248 INFO Saving computed metrics
+2021-07-11 02:21:34,295 INFO Creating genome binning plots
+2021-07-11 02:21:41,270 INFO Loading Gold standard
+2021-07-11 02:21:41,320 INFO Loading metabat2_p50
+2021-07-11 02:21:41,345 INFO Loading metabat2_p95
+2021-07-11 02:21:41,365 INFO Loading improved
+2021-07-11 02:21:41,379 INFO Creating output directories
+2021-07-11 02:21:41,381 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 02:21:41,573 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-11 02:21:41,743 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-11 02:21:41,928 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 02:21:42,113 INFO Saving computed metrics
+2021-07-11 02:21:42,154 INFO Creating genome binning plots
+2021-07-11 02:22:00,547 INFO Creating HTML page
+2021-07-11 02:22:02,489 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-11 02:23:28,866 INFO Loading Gold standard
+2021-07-11 02:23:28,917 INFO Loading metabat2_p50
+2021-07-11 02:23:28,933 INFO Loading metabat2_p95
+2021-07-11 02:23:28,944 INFO Loading improved
+2021-07-11 02:23:28,957 INFO Creating output directories
+2021-07-11 02:23:28,959 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-11 02:23:29,154 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-11 02:23:29,328 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-11 02:23:29,533 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-11 02:23:29,762 INFO Saving computed metrics
+2021-07-11 02:23:29,795 INFO Creating genome binning plots
+2021-07-11 02:23:47,993 INFO Creating HTML page
+2021-07-11 02:23:49,849 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-12 03:10:39,027 INFO Loading Gold standard
+2021-07-12 03:10:39,077 INFO Loading metabat1_p30
+2021-07-12 03:10:39,096 INFO Loading metabat1_p95
+2021-07-12 03:10:39,113 INFO Creating output directories
+2021-07-12 03:10:39,115 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-12 03:10:39,306 INFO Evaluating metabat1_p30 (sample gsa, genome binning)
+2021-07-12 03:10:39,476 INFO Evaluating metabat1_p95 (sample gsa, genome binning)
+2021-07-12 03:10:39,647 INFO Saving computed metrics
+2021-07-12 03:10:39,668 INFO Creating genome binning plots
+2021-07-12 03:10:54,923 INFO Creating HTML page
+2021-07-12 03:10:56,469 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-15 20:53:22,656 INFO Loading Gold standard
+2021-07-15 20:53:22,718 INFO Loading metabat2_p50
+2021-07-15 20:53:22,735 INFO Loading metabat2_p95
+2021-07-15 20:53:22,747 INFO Loading improved
+2021-07-15 20:53:22,767 INFO Creating output directories
+2021-07-15 20:53:22,769 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-15 20:53:22,981 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-15 20:53:23,157 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-15 20:53:23,341 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-15 20:53:23,517 INFO Saving computed metrics
+2021-07-15 20:53:23,551 INFO Creating genome binning plots
+2021-07-15 20:53:41,917 INFO Creating HTML page
+2021-07-15 20:53:43,785 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-15 21:18:12,408 INFO Loading Gold standard
+2021-07-15 21:18:12,460 INFO Loading metabat2_p50
+2021-07-15 21:18:12,477 INFO Loading metabat2_p95
+2021-07-15 21:18:12,489 INFO Loading improved
+2021-07-15 21:18:12,503 INFO Creating output directories
+2021-07-15 21:18:12,506 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-15 21:18:12,743 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-15 21:18:12,928 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-15 21:18:13,115 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-15 21:18:13,306 INFO Saving computed metrics
+2021-07-15 21:18:13,342 INFO Creating genome binning plots
+2021-07-15 21:18:31,823 INFO Creating HTML page
+2021-07-15 21:18:33,703 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-15 21:27:23,302 INFO Loading Gold standard
+2021-07-15 21:27:23,353 INFO Loading metabat2_p50
+2021-07-15 21:27:23,370 INFO Loading metabat2_p95
+2021-07-15 21:27:23,381 INFO Loading improved
+2021-07-15 21:27:23,395 INFO Creating output directories
+2021-07-15 21:27:23,397 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-15 21:27:23,592 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-15 21:27:23,767 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-15 21:27:23,949 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-15 21:27:24,176 INFO Saving computed metrics
+2021-07-15 21:27:24,208 INFO Creating genome binning plots
+2021-07-15 21:27:42,774 INFO Creating HTML page
+2021-07-15 21:27:44,617 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-18 18:55:25,017 INFO Loading Gold standard
+2021-07-18 18:55:25,080 INFO Loading maxbin2_p50
+2021-07-18 18:55:25,106 INFO Loading maxbin2_p80
+2021-07-18 18:55:25,131 INFO Creating output directories
+2021-07-18 18:55:25,133 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-18 18:55:25,364 INFO Evaluating maxbin2_p50 (sample gsa, genome binning)
+2021-07-18 18:55:25,546 INFO Evaluating maxbin2_p80 (sample gsa, genome binning)
+2021-07-18 18:55:25,726 INFO Saving computed metrics
+2021-07-18 18:55:25,748 INFO Creating genome binning plots
+2021-07-18 18:55:40,889 INFO Creating HTML page
+2021-07-18 18:55:42,502 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-18 21:21:08,889 INFO Loading Gold standard
+2021-07-18 21:21:08,939 INFO Loading maxbin2_p50
+2021-07-18 21:21:08,963 INFO Loading maxbin2_p80
+2021-07-18 21:21:08,986 INFO Loading metabat2_p80
+2021-07-18 21:21:08,993 CRITICAL File ./Temp/CAMI_Low/metabat2_p80 not found or malformed. [Errno 2] No such file or directory: './Temp/CAMI_Low/metabat2_p80'
+2021-07-18 21:34:19,620 INFO Loading Gold standard
+2021-07-18 21:34:19,671 INFO Loading maxbin2_p50
+2021-07-18 21:34:19,696 INFO Loading maxbin2_p80
+2021-07-18 21:34:19,720 INFO Loading metabat2_p80
+2021-07-18 21:34:19,720 CRITICAL File ./Temp/CAMI_Low/metabat2_p80 not found or malformed. [Errno 2] No such file or directory: './Temp/CAMI_Low/metabat2_p80'
+2021-07-18 21:34:41,632 INFO Loading Gold standard
+2021-07-18 21:34:41,682 INFO Loading maxbin2_p50
+2021-07-18 21:34:41,707 INFO Loading maxbin2_p80
+2021-07-18 21:34:41,729 INFO Loading maxbin2_p90
+2021-07-18 21:34:41,753 INFO Loading maxbin2_p95
+2021-07-18 21:34:41,775 INFO Loading metabat2_p80
+2021-07-18 21:34:41,776 CRITICAL File ./Temp/CAMI_Low/metabat2_p80 not found or malformed. [Errno 2] No such file or directory: './Temp/CAMI_Low/metabat2_p80'
+2021-07-18 21:34:51,619 INFO Loading Gold standard
+2021-07-18 21:34:51,669 INFO Loading maxbin2_p50
+2021-07-18 21:34:51,694 INFO Loading maxbin2_p80
+2021-07-18 21:34:51,717 INFO Loading maxbin2_p90
+2021-07-18 21:34:51,741 INFO Loading maxbin2_p95
+2021-07-18 21:34:51,763 INFO Loading metabat2_p80
+2021-07-18 21:34:51,764 CRITICAL File ./Temp/CAMI_Low/metabat2_p80 not found or malformed. [Errno 2] No such file or directory: './Temp/CAMI_Low/metabat2_p80'
+2021-07-18 21:35:19,851 INFO Loading Gold standard
+2021-07-18 21:35:19,901 INFO Loading maxbin2_p50
+2021-07-18 21:35:19,925 INFO Loading maxbin2_p80
+2021-07-18 21:35:19,947 INFO Loading maxbin2_p90
+2021-07-18 21:35:19,971 INFO Loading maxbin2_p95
+2021-07-18 21:35:19,992 INFO Loading metabat2_p95
+2021-07-18 21:35:20,003 INFO Creating output directories
+2021-07-18 21:35:20,006 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-18 21:35:20,194 INFO Evaluating maxbin2_p50 (sample gsa, genome binning)
+2021-07-18 21:35:20,368 INFO Evaluating maxbin2_p80 (sample gsa, genome binning)
+2021-07-18 21:35:20,539 INFO Evaluating maxbin2_p90 (sample gsa, genome binning)
+2021-07-18 21:35:20,719 INFO Evaluating maxbin2_p95 (sample gsa, genome binning)
+2021-07-18 21:35:20,890 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-18 21:35:21,067 INFO Saving computed metrics
+2021-07-18 21:35:21,104 INFO Creating genome binning plots
+2021-07-18 21:35:44,089 INFO Creating HTML page
+2021-07-18 21:35:46,075 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-18 21:40:22,311 INFO Loading Gold standard
+2021-07-18 21:40:22,363 INFO Loading maxbin2_p50
+2021-07-18 21:40:22,389 INFO Loading maxbin2_p80
+2021-07-18 21:40:22,413 INFO Loading maxbin2_p90
+2021-07-18 21:40:22,439 INFO Loading maxbin2_p95
+2021-07-18 21:40:22,463 INFO Loading metabat2_p50
+2021-07-18 21:40:22,478 INFO Loading metabat2_p95
+2021-07-18 21:40:22,490 INFO Creating output directories
+2021-07-18 21:40:22,492 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-18 21:40:22,687 INFO Evaluating maxbin2_p50 (sample gsa, genome binning)
+2021-07-18 21:40:22,865 INFO Evaluating maxbin2_p80 (sample gsa, genome binning)
+2021-07-18 21:40:23,037 INFO Evaluating maxbin2_p90 (sample gsa, genome binning)
+2021-07-18 21:40:23,243 INFO Evaluating maxbin2_p95 (sample gsa, genome binning)
+2021-07-18 21:40:23,419 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-18 21:40:23,592 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-18 21:40:23,775 INFO Saving computed metrics
+2021-07-18 21:40:23,821 INFO Creating genome binning plots
+2021-07-18 21:40:50,625 INFO Creating HTML page
+2021-07-18 21:40:53,005 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment
+2021-07-18 21:58:09,708 INFO Loading Gold standard
+2021-07-18 21:58:09,760 INFO Loading metabat2_p50
+2021-07-18 21:58:09,777 INFO Loading metabat2_p95
+2021-07-18 21:58:09,789 INFO Loading maxbin2_p50
+2021-07-18 21:58:09,817 INFO Loading maxbin2_p80
+2021-07-18 21:58:09,843 INFO Loading maxbin2_p95
+2021-07-18 21:58:09,867 INFO Loading improved
+2021-07-18 21:58:09,893 INFO Creating output directories
+2021-07-18 21:58:09,895 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-18 21:58:10,095 INFO Evaluating metabat2_p50 (sample gsa, genome binning)
+2021-07-18 21:58:10,273 INFO Evaluating metabat2_p95 (sample gsa, genome binning)
+2021-07-18 21:58:10,464 INFO Evaluating maxbin2_p50 (sample gsa, genome binning)
+2021-07-18 21:58:10,646 INFO Evaluating maxbin2_p80 (sample gsa, genome binning)
+2021-07-18 21:58:10,825 INFO Evaluating maxbin2_p95 (sample gsa, genome binning)
+2021-07-18 21:58:11,001 INFO Evaluating improved (sample gsa, genome binning)
+2021-07-18 21:58:11,182 INFO Saving computed metrics
+2021-07-18 21:58:11,227 INFO Creating genome binning plots
+2021-07-18 21:58:37,572 INFO Creating HTML page
+2021-07-18 21:58:39,892 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/CAMI_Low/Assesment

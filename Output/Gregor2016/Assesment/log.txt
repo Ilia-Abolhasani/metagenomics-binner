@@ -1,0 +1,17 @@
+2021-07-14 12:40:11,338 INFO Loading Gold standard
+2021-07-14 12:40:11,375 INFO Loading busybee
+2021-07-14 12:40:11,411 INFO Creating output directories
+2021-07-14 12:40:11,413 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-14 12:43:44,368 INFO Loading Gold standard
+2021-07-14 12:43:44,405 INFO Loading busybee
+2021-07-14 12:43:44,441 INFO Creating output directories
+2021-07-14 12:43:44,443 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-14 12:56:54,118 INFO Loading Gold standard
+2021-07-14 12:56:54,156 INFO Loading busybee
+2021-07-14 12:56:54,193 INFO Creating output directories
+2021-07-14 12:56:54,195 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-14 12:56:54,361 INFO Evaluating busybee (sample gsa, genome binning)
+2021-07-14 12:56:54,539 INFO Saving computed metrics
+2021-07-14 12:56:54,556 INFO Creating genome binning plots
+2021-07-14 12:57:06,008 INFO Creating HTML page
+2021-07-14 12:57:07,526 INFO AMBER finished successfully. All results have been saved to /home/jupyter/Final/Output/Gregor2016/Assesment

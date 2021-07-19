@@ -1,0 +1,4 @@
+[FragGeneScan] /local/bin/FragGeneScan1.18
+[Bowtie2] /local/bin/bowtie2-2.0.0-beta7
+[HMMER3] /local/bin/hmmer-3.0-linux-intel-x86_64/binaries
+[Velvet] /usr/local/bin/velvet-1.2.07
